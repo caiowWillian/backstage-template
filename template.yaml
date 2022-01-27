@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 # some metadata about the template itself
 
+metadata:
+  name: caio
+
 spec:
   type: service
 
