@@ -3,7 +3,7 @@ kind: Template
 # some metadata about the template itself
 
 metadata:
-  name: caio
+  name: artist-lookup
 
 spec:
   type: service
