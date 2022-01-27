@@ -19,6 +19,18 @@ spec:
           type: string
           description: Unique name of the component
           ui:autofocus: true
+
+        title:
+          title: Titulo
+          type: string
+          description: Unique name of the component
+        
+        description:
+          title: Descrição
+          type: string
+          description: Unique name of the component
           ui:options:
             rows: 5
+
+
     
