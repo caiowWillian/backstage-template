@@ -3,7 +3,7 @@ kind: Template
 # some metadata about the template itself
 
 metadata:
-  name: stack-mars
+  name: stack-mars2
 
 spec:
   type: service
